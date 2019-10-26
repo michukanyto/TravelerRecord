@@ -1,0 +1,13 @@
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/TraverlerRecord.csprojAssemblyReference.cache
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/TraverlerRecord.AssemblyInfoInputs.cache
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/TraverlerRecord.AssemblyInfo.cs
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/TraverlerRecord.dll
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/ref/TraverlerRecord.dll
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/TraverlerRecord.pdb
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/bin/Debug/netstandard2.0/TraverlerRecord.deps.json
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/bin/Debug/netstandard2.0/TraverlerRecord.dll
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/bin/Debug/netstandard2.0/ref/TraverlerRecord.dll
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/bin/Debug/netstandard2.0/TraverlerRecord.pdb
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/XamlC.stamp
