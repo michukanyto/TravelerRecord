@@ -12,5 +12,6 @@
   <ItemGroup>
     <Compile Remove="TostMessage.cs" />
     <Compile Remove="IMessage.cs" />
+    <Compile Remove="MapPage.cs" />
   </ItemGroup>
 </Project>

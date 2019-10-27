@@ -12,3 +12,6 @@
 /Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/bin/Debug/netstandard2.0/TraverlerRecord.pdb
 /Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/HistoryPage.xaml.g.cs
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/MapPage.xaml.g.cs
+/Users/michukanyto/Projects/TraverlerRecord/TraverlerRecord/obj/Debug/netstandard2.0/ProfilPage.xaml.g.cs

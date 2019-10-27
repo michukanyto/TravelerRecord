@@ -26,7 +26,7 @@ namespace TraverlerRecord
 
         public bool CheckLogIn()
         {
-            if (userName == "admin" && password == "12345")
+            if (userName == "admin@d.com" && password == "12345")
             {
                 return true;
             }
