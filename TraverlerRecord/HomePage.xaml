@@ -3,6 +3,13 @@
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:local="clr-namespace:TraverlerRecord"
             x:Class="TraverlerRecord.HomePage">
+
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="AddNewTravel"/>
+        <ToolbarItem Text="Exit"
+                     Clicked="ExitApp"/>
+    </TabbedPage.ToolbarItems>
     <local:MapPage Title="Map"/>
     <local:HistoryPage Title="History"/>
     <local:ProfilPage Title="Profil"/>

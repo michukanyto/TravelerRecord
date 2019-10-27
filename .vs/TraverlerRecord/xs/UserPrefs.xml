@@ -1,13 +1,15 @@
-﻿<Properties StartupConfiguration="{C8B83A23-8C89-462E-8681-298779A6EA63}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TraverlerRecord/MapPage.xaml">
+﻿<Properties StartupConfiguration="{AC928E2C-982D-4A46-89DB-008093D9973A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TraverlerRecord/NewTravelPage.xaml">
     <Files>
       <File FileName="TraverlerRecord/MainPage.xaml.cs" Line="27" Column="1" />
       <File FileName="TraverlerRecord/MainPage.xaml" Line="17" Column="34" />
-      <File FileName="TraverlerRecord/HomePage.xaml" Line="8" Column="24" />
+      <File FileName="TraverlerRecord/HomePage.xaml" Line="6" Column="31" />
       <File FileName="TraverlerRecord/HomePage.xaml.cs" Line="8" Column="43" />
-      <File FileName="TraverlerRecord/ProfilPage.xaml" Line="5" Column="19" />
-      <File FileName="TraverlerRecord/HistoryPage.xaml" Line="4" Column="40" />
-      <File FileName="TraverlerRecord/MapPage.xaml" Line="6" Column="5" />
+      <File FileName="TraverlerRecord/ProfilPage.xaml" Line="3" Column="69" />
+      <File FileName="TraverlerRecord/HistoryPage.xaml" Line="3" Column="69" />
+      <File FileName="TraverlerRecord/MapPage.xaml" Line="8" Column="1" />
+      <File FileName="TraverlerRecord/NewTravelPage.xaml" Line="5" Column="19" />
+      <File FileName="TraverlerRecord/NewTravelPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +20,7 @@
               <Node name="HistoryPage.xaml" expanded="True" />
               <Node name="HomePage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="MapPage.xaml" selected="True" />
+              <Node name="NewTravelPage.xaml" expanded="True" selected="True" />
               <Node name="ProfilPage.xaml" expanded="True" />
             </Node>
             <Node name="TraverlerRecord.Android" expanded="True" />

@@ -11,5 +11,15 @@ namespace TraverlerRecord
         {
             InitializeComponent();
         }
+
+        public void AddNewTravel(Object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new NewTravelPage());
+        }
+
+        public void ExitApp(Object sender, EventArgs e)
+        {
+            Navigation.PopAsync();
+        }
     }
 }
