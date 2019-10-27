@@ -3,14 +3,18 @@
     <StackLayout VerticalOptions="Center"
                  Padding="10">
         <!-- Place new controls here -->
-        <Entry x:Name="emailTextView"
+        
+        <Entry x:Name="userEntry"
                Placeholder="user@domain.com"
             Keyboard="Email"/>
-        <Entry x:Name="passwordTextView"
+        <Entry x:Name="passwordEntry"
                Placeholder="password"
                IsPassword="True"/>
         <Button x:Name="LogInButton"
                 Text="Log In"
+                TextColor="White"
+                BackgroundColor="DodgerBlue"
+                Margin="0,50,0,0"
                 Clicked="LogInButtonClicked"/>
                 
     </StackLayout>

@@ -20,7 +20,19 @@ namespace TraverlerRecord
 
         private void LogInButtonClicked(Object sender, EventArgs e)
         {
+            bool user = string.IsNullOrEmpty(userEntry.Text);
+            bool password = string.IsNullOrEmpty(passwordEntry.Text);
 
+            if (user || password)
+            {
+                
+            }
+            else
+            {
+                LogIn logIn = new LogIn(userEntry.Text, passwordEntry.Text);
+                bool logInIsCorrect = logIn.CheckLogIn();
+                Navigation.PushAsync(new HomePage());
+            }
         }
     }
 }
